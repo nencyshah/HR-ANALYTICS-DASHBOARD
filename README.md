@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard
+# HR Analytics Dashboard
 
 ## 1. Project Title / Headline
 **HR Analytics Dashboard – Workforce Attrition & Performance Insights**
