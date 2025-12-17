@@ -142,7 +142,7 @@ To deliver an interactive HR analytics solution that:
 ---
 
 ## 7. Dashboard Preview
-![HR Analytics Dashboard Preview]([./HR%20ANALYTICS%20DASHBOARD.png](https://github.com/nencyshah/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.png))
+![HR Analytics Dashboard Preview](https://github.com/nencyshah/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.png)
 
 ---
 
